@@ -1,0 +1,11 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    margin: auto;
+    width: 80%;
+    max-width: 800px;
+    
+}
